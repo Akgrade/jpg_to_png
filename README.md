@@ -1,6 +1,6 @@
 # JPG to PNG Converter
 
-A little learning project that converts `.jpg` files to `.png` in a new folder.
+A little learning miniproject that converts `.jpg` files to `.png` in a new folder.
 
 ## Usage
 
